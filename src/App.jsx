@@ -4,9 +4,9 @@ import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import Homepage from './pages/Homepage';
 import Dashboard from './pages/Dashboard';
 import ResumeUpload from './pages/ResumeUpload';
-import JobDescriptionForm from './pages/JobDescriptionForm';
 import MatchResults from './pages/MatchResults';
 import GapAnalysis from './pages/GapAnalysis';
+import JobDescriptionForm from './pages/JobDescriptionForm';
 
 const AppRoutes = () => {
 
