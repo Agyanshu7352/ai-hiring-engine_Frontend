@@ -26,7 +26,7 @@ export const NAV_ITEMS = [
     hideOn: ['/matches']
   },
   {
-    label: 'Gap Analysis',  
+    label: 'Gap_Analysis',  
     path: '/gap-analysis',
     hideOn: ['/gap-analysis']
   }
