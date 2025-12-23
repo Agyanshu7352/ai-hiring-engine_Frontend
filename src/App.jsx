@@ -6,7 +6,7 @@ import Dashboard from './pages/Dashboard';
 import ResumeUpload from './pages/ResumeUpload';
 import MatchResults from './pages/MatchResults';
 import GapAnalysis from './pages/GapAnalysis';
-import JobDescriptionForm from './pages/jobDescriptionForm';
+import JobDescriptionForm from './pages/JobDescriptionForm';
 
 const AppRoutes = () => {
 
